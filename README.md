@@ -155,3 +155,5 @@ What role is it playing?
 What software is it running? Is it supported? Is it authorized?
 
 CSAM automation - Always UTD architecture, Trigger enforcement response
+
+Trust in patching - recycling VM not always best solution, need to prioritize and keep out of siloing, or face prolonged exposure to risk
