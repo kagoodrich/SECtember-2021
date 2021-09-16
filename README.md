@@ -293,6 +293,16 @@ Communicate with your internal teams, make them understand the why
 
 Who validates the finding? Communicates with the researcher?
 
+Consider the whole lifeline of finding a bug, what happens next? Who is responsible for ensuring communication internally?
+
+Review the findings, and consider the effect (Engage SOC/IR Team)
+
+Policy/scope sets the rules of engagement
+
+Before you start, make sure you take care of the low hanging fruit
+
+Private BB is a thing, consider it
+
 <h2> Misc. Notes </h2>
 
 <https://cloudsecurityalliance.org/cxo-trust/>
