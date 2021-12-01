@@ -1,10 +1,6 @@
 # SECtember 2021
 
- Notes from SECtember
-
-Worth looking into - <https://www.vendorpedia.com/>
-
-<h2> Jen Easterly - Director of CISA </h2>
+<h2> Keynote by Jen Easterly - Director of CISA </h2>
 
 More connections = larger attack surface = tasty target for APT/NSH
 
@@ -308,3 +304,5 @@ Private BB is a thing, consider it
 <https://cloudsecurityalliance.org/cxo-trust/>
 
 <https://www.cisa.gov/cyber-essentials>
+
+<https://www.vendorpedia.com/>
